@@ -83,7 +83,7 @@ public:
             {
                 break;
             }
-            if (playerscount >= 3)
+            else if (playerscount >= 3)
             {
                 break;
             }
